@@ -9,8 +9,10 @@ yarn-error.log*
 
 # Backend (Node.js/Express specific ignores)
 backend/node_modules/
-backend/.env
+.env
 
 # OS-specific files (macOS, Windows)
 .DS_Store
 Thumbs.db
+
+.env
